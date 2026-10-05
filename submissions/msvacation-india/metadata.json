@@ -1,0 +1,11 @@
+{
+  "name": "MS Vacation India Leave Assistant",
+  "description": "Check leave balances, see India's fixed and optional holidays, review leave history, plan long breaks around Indian festivals, and file MS Vacation requests, asking you before the final submit.",
+  "platforms": ["Cowork"],
+  "tags": ["leave", "vacation", "time-off", "india", "holidays", "festivals", "msvacation", "hr", "productivity"],
+  "author": "Yashika Asrani",
+  "authorUrl": "https://github.com/yashika-asrani",
+  "version": "1.0.0",
+  "createdAt": "2026-10-05",
+  "updatedAt": "2026-10-05"
+}
